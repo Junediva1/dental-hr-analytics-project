@@ -1,0 +1,18 @@
+department_id,department_name,location_id,department_head_id,budget_amount,floor_number,created_date
+101,General Dentistry,,2114.0,,2.0,2025-11-28
+102,Orthodontics,2.0,2142.0,1907060.23,5.0,2017-06-30
+103,Oral Surgery,4.0,2032.0,317043.74,2.0,2021-02-24
+104,Pediatric Dentistry,5.0,2027.0,,2.0,2019-08-23
+105,Endodontics,4.0,2284.0,2071218.53,,2019-07-17
+106,Billing & Insurance,2.0,2432.0,1015563.66,2.0,2024-05-08
+107,Patient Services,3.0,2104.0,458678.15,3.0,2016-02-13
+108,Human Resources,3.0,2270.0,,5.0,2026-03-13
+109,Compliance,1.0,2387.0,,,2015-07-31
+110,IT Support,,2370.0,1549042.33,1.0,2024-01-31
+111,Finance,,2233.0,1989403.77,,2023-09-18
+112,Dental Hygiene,2.0,2103.0,,-1.0,2016-08-18
+113,Scheduling,3.0,2166.0,1082907.18,-1.0,2023-02-09
+114,Insurance Verification,3.0,2073.0,1620544.76,5.0,2025-04-20
+115,Clinical Operations,,2250.0,,3.0,2015-08-29
+206,Billing and Insurance,1.0,2450.0,550000.0,1.0,2016-05-11
+107,Patient Services ,,,,-1.0,2020-02-14
